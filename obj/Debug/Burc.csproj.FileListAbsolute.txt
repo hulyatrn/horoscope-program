@@ -1,0 +1,74 @@
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\bin\Debug\Burc odevi1.exe.config
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\bin\Debug\Burc odevi1.exe
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\bin\Debug\Burc odevi1.pdb
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.csprojAssemblyReference.cache
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form1.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form2.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form3.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form4.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form5.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Properties.Resources.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.csproj.GenerateResource.cache
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.exe
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.pdb
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form10.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form11.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form12.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form13.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form14.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form15.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form16.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form17.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form18.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form19.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form20.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form21.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form22.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form23.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form24.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form25.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form26.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form27.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form28.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form6.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form7.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form8.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form9.resources
+C:\Users\Hulya\source\repos\Burc odevi1\Burc odevi1\bin\Debug\burcc.accdb
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\bin\Debug\burcc.accdb
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.csprojAssemblyReference.cache
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form1.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form10.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form11.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form12.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form13.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form14.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form15.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form16.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form17.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form18.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form19.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form2.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form20.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form21.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form22.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form23.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form24.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form25.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form26.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form27.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form28.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form3.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form4.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form5.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form6.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form7.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form8.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Form9.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc_odevi1.Properties.Resources.resources
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.csproj.GenerateResource.cache
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.exe
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\obj\Debug\Burc odevi1.pdb
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\bin\Debug\Burc odevi1.exe.config
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\bin\Debug\Burc odevi1.exe
+C:\Users\Hulya\Desktop\Burc odevi1\Burc odevi1\bin\Debug\Burc odevi1.pdb
